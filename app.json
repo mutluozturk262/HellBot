@@ -53,7 +53,8 @@
     "FFMPEG_DOWNLOAD": {
       "description": "Ffmpeg download url.",
       "value": "https://ffmpeg.org/releases/ffmpeg-6.0.tar.xz",
-    }
+    },
+  }   
   "addons": [{
     "plan": "heroku-postgresql",
     "options": {
